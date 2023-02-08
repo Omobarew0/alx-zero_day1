@@ -1,1 +1,1 @@
-my salary
+my salary was paid today
